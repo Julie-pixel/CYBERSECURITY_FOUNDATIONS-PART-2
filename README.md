@@ -52,8 +52,9 @@ This room gave me a beginner-level understanding of penetration testing and wher
 - Attempt safe exploitation
 - Document findings and recommendations
 ---
-### Practical
+## Practical
 ACME has approached you for an assignment. They want you to carry out the stages of a penetration test on their infrastructure. View the site (by clicking the green button on this task) and follow the guided instructions to complete this exercise.
+
 1.Define scope and permission
 <img width="987" height="525" alt="image" src="https://github.com/user-attachments/assets/f2fb9e03-5cc4-458f-979f-4c40d32d9a5f" />
 <img width="996" height="519" alt="image" src="https://github.com/user-attachments/assets/cc1654e1-aef3-4b08-be4b-c6e394eb5fbf" />
