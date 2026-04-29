@@ -56,18 +56,23 @@ This room gave me a beginner-level understanding of penetration testing and wher
 ACME has approached you for an assignment. They want you to carry out the stages of a penetration test on their infrastructure. View the site (by clicking the green button on this task) and follow the guided instructions to complete this exercise.
 
 1.Define scope and permission
+
 <img width="987" height="525" alt="image" src="https://github.com/user-attachments/assets/f2fb9e03-5cc4-458f-979f-4c40d32d9a5f" />
 <img width="996" height="519" alt="image" src="https://github.com/user-attachments/assets/cc1654e1-aef3-4b08-be4b-c6e394eb5fbf" />
 2. Gather information
 <img width="984" height="402" alt="image" src="https://github.com/user-attachments/assets/48128a1c-946e-40fb-92b7-e8404161020c" />
 <img width="996" height="432" alt="image" src="https://github.com/user-attachments/assets/166aecfa-95b7-4a86-ab4f-e03629a5b101" />
+
 3.Enumeration & Scanning
 <img width="985" height="530" alt="image" src="https://github.com/user-attachments/assets/db5b099a-1173-4722-957c-ee654c2c08fc" />
 <img width="921" height="464" alt="image" src="https://github.com/user-attachments/assets/0c4e4ae1-0ea7-486c-92b4-3f428d8857a7" />
+
 4.Exploitation
 <img width="994" height="602" alt="image" src="https://github.com/user-attachments/assets/e457caec-5f03-4fa7-b7a8-7a8f50641743" />
+
 5.Post Exploitation
 <img width="989" height="598" alt="image" src="https://github.com/user-attachments/assets/d37bcc0e-30fb-46c4-9787-0a58bd925473" />
+
 6. Pentest Report
 <img width="992" height="532" alt="image" src="https://github.com/user-attachments/assets/9fff813b-88f8-43ed-b7cd-ec58225b4157" />
 <img width="985" height="488" alt="image" src="https://github.com/user-attachments/assets/f815b6ab-7e1d-4320-acc7-d6485e853423" />
