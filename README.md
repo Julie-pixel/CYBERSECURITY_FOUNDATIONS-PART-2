@@ -77,6 +77,7 @@ ACME has approached you for an assignment. They want you to carry out the stages
 <img width="992" height="532" alt="image" src="https://github.com/user-attachments/assets/9fff813b-88f8-43ed-b7cd-ec58225b4157" />
 <img width="985" height="488" alt="image" src="https://github.com/user-attachments/assets/f815b6ab-7e1d-4320-acc7-d6485e853423" />
 ---
+
 ### Why It Matters
 - Helps organizations discover security gaps early.
 - Reduces risk of real-world breaches.
